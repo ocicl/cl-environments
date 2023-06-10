@@ -1,0 +1,9 @@
+* cl-environments
+
+Implements the CLTL2 environment access API.
+
+|---------+----------------------------------------------------------------------------------|
+| source  | file:https://github.com/alex-gutev/cl-environments/archive/refs/tags/v0.5.tar.gz |
+| version | 0.5                                                                              |
+| systems | cl-environments                                                                  |
+|---------+----------------------------------------------------------------------------------|
