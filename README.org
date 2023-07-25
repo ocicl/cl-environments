@@ -1,0 +1,10 @@
+* cl-environments
+
+Implements the CLTL2 environment access API.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alex-gutev/cl-environments.git   |
+| commit  | 118f191  |
+| systems | cl-environments |
+|---------+-------------------------------------------|
+
